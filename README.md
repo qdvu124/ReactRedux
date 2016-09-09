@@ -1,3 +1,8 @@
+#Simple YouTube video app using React-Redux and YouTube API
+This is a simple application made using the tutorial and original repo provided by Stephen Grider
+To run the application at port 8080, clone the repository and run npm start.
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -23,3 +28,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+
+
